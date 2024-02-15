@@ -7,23 +7,20 @@ A machine learning application that uses a number of metrics to predict whether 
 ## Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
-3. [Tests](#tests)
-4. [License](#license)
-5. [Questions](#questions)
+3. [License](#license)
+4. [Questions](#questions)
 
 ## Installation
 `git clone` this repo 
-open a new terminal and run `pip install numpy`
+Open a new terminal and run `pip install numpy && pandas`
 
 ## Usage
+To run the program simply navigate to the index.py file and run the python script. 
+Feel free to change the input data found on line 71 to see various different results. 
+Below is an example of input data and its corresponding output for an individual who does not have heart disease.
 
-
-
-
-## Tests
-
-
-![DEMO]()
+![inputData](./images/inputData.png)
+![results](./images/terminalResult.png)
 
 ## License
 This project is licensed under mit 
