@@ -8,9 +8,8 @@ A machine learning application that predicts the likelihood of an individual hav
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [License](#license)
-4. [Testing](#testing)
-5. [Contributing](#contributing)
-6. [Questions](#questions)
+4. [Contributing](#contributing)
+5. [Questions](#questions)
 
 ## Installation
 To install the project, follow these steps:
@@ -32,11 +31,6 @@ Example of input data and corresponding output:
 
 ## License
 This project is licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-## Testing
-To ensure the correctness of the prediction model, run tests by following these steps:
-1. Navigate to the `tests` directory.
-2. Run the test suite: `pytest`.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
