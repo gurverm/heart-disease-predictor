@@ -27,8 +27,8 @@ To use the program, follow these steps:
 4. Interpret the output, which provides predictions on the likelihood of heart disease.
 
 Example of input data and corresponding output:
-![Input Data](./images/input_data.png)
-![Results](./images/results.png)
+![Input Data](./images/inputData.png)
+![Results](./images/terminalResult.png)
 
 ## License
 This project is licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT).
