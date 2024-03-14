@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-A machine learning application that predicts the likelihood of an individual having heart disease using data from the University of California, Irvine (UCI) dataset on Kaggle. The model utilizes [insert algorithms used] and is evaluated based on [insert evaluation metrics].
+A machine learning application that predicts the likelihood of an individual having heart disease using data from the University of California, Irvine (UCI) dataset on Kaggle. The model utilizes Logistic Regression and is evaluated based on accuracy score.
 
 ## Table of Contents
 1. [Installation](#installation)
